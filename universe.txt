@@ -1,0 +1,48 @@
+AAPL - Apple Inc.
+MSFT - Microsoft Corporation
+AMZN - Amazon.com, Inc.
+GOOGL - Alphabet Inc. (Class A)
+GOOG - Alphabet Inc. (Class C)
+NVDA - NVIDIA Corporation
+META - Meta Platforms, Inc.
+TSLA - Tesla, Inc.
+PG - Procter & Gamble Co.
+JNJ - Johnson & Johnson
+V - Visa Inc.
+MA - Mastercard Incorporated
+HD - The Home Depot, Inc.
+DIS - The Walt Disney Company
+UNH - UnitedHealth Group Incorporated
+PEP - PepsiCo, Inc.
+CVX - Chevron Corporation
+AVGO - Broadcom Inc.
+KO - The Coca-Cola Company
+PFE - Pfizer Inc.
+MRK - Merck & Co., Inc.
+CSCO - Cisco Systems, Inc.
+ADBE - Adobe Inc.
+NFLX - Netflix, Inc.
+ORCL - Oracle Corporation
+ABBV - AbbVie Inc.
+INTC - Intel Corporation
+CRM - Salesforce, Inc.
+NKE - NIKE, Inc.
+T - AT&T Inc.
+VZ - Verizon Communications Inc.
+WMT - Walmart Inc.
+MRNA - Moderna, Inc.
+LLY - Eli Lilly and Company
+TXN - Texas Instruments Incorporated
+BA - The Boeing Company
+UPS - United Parcel Service, Inc.
+HON - Honeywell International Inc.
+QCOM - Qualcomm Incorporated
+MCD - McDonald's Corporation
+COST - Costco Wholesale Corporation
+PYPL - PayPal Holdings, Inc.
+AMD - Advanced Micro Devices, Inc.
+IBM - International Business Machines Corporation
+NEE - NextEra Energy, Inc.
+SBUX - Starbucks Corporation
+CVS - CVS Health Corporation
+MMM - 3M Company
