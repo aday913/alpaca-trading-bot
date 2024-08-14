@@ -11,6 +11,12 @@ log = logging.getLogger(__name__)
 
 
 class HistoricalData:
+    """
+    Historical data client for getting stock data
+
+    :param api_key: Alpaca API key
+    :param api_secret: Alpaca secret
+    """
     def __init__(self, api_key: str, api_secret: str):
         """
         Initialize the historical data client
