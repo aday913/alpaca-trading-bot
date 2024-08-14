@@ -12,6 +12,12 @@ log = logging.getLogger(__name__)
 
 class HistoricalData:
     def __init__(self, api_key: str, api_secret: str):
+        """
+        Initialize the historical data client
+
+        :param api_key: Alpaca API key
+        :param api_secret: Alpaca secret
+        """
         self.client = StockHistoricalDataClient(api_key=api_key, secret_key=api_secret)
 
     def get_data(
@@ -20,7 +26,17 @@ class HistoricalData:
         start: datetime.datetime,
         end: datetime.datetime,
         timeframe: TimeFrame,
-    ):
+    ) -> pd.DataFrame:
+        """
+        Get historical data for a list of symbols
+
+        :param symbols: List of symbols
+        :param start: Start date
+        :param end: End date
+        :param timeframe: Timeframe
+
+        :return: DataFrame with historical data
+        """
         log.info(
             f"Getting historical data for {symbols} from {start} to {end} with timeframe {timeframe}"
         )
