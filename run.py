@@ -26,6 +26,9 @@ def main(
 
     :param api_key: Alpaca API key
     :param api_secret: Alpaca secret
+    :param discord_url: Discord webhook URL
+    :param dry_run: Dry run mode
+    :param paper: Paper trading mode
     """
     # Initialize the broker
     broker = Broker(
