@@ -114,3 +114,4 @@ if __name__ == "__main__":
     log.info(
         f"First 5 assets: {', '.join([f'{asset.symbol}: {asset.name}' for asset in assets[:5]])}"
     )
+    log.info(f"Complete first asset: \n{assets[0]}\n")
